@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bHVxaGZxNDhwMm54ZmZtbzBhYzl1eW96bm9yYWF5ZzZ5eTZieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="typing gif" />
+<img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="240" alt="mic drop" />
 
 # Profilio
 
